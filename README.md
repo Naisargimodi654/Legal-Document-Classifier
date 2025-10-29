@@ -1,9 +1,5 @@
 # Legal Document Classifier
 
-A rephrased, ready-to-use repository README for a multi-label legal document classification pipeline built on transformer models. This document is designed to be dropped into a GitHub project as `README.md` or used as the basis for project documentation.
-
----
-
 ## Table of contents
 
 1. Project Overview
@@ -271,6 +267,3 @@ python src/inference.py --model experiments/exp123/best.pt --file examples/contr
 streamlit run streamlit_app/app.py
 ```
 
----
-
-If you want, I can also generate ready-to-commit files: `README.md`, a sample `requirements.txt`, `configs/toy_config.yaml`, and a minimal `src/train.py` scaffold. Tell me which files you'd like and I will create them.
