@@ -1,4 +1,4 @@
-# Legal Document Classifier
+# 🧾 Legal Document Classifier
 
 ## Table of contents
 
